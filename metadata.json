@@ -1,0 +1,6 @@
+{
+  "name": "StoryWeaver",
+  "description": "An AI-powered storybook generator that creates personalized children's tales with customized themes, characters, and beautiful illustrations using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
